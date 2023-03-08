@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myselfprincee
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development!!
+- 👀 I’m love Coding
+- 🌱 I’m currently learning React!!
 
 <!---
 myselfprincee/myselfprincee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
