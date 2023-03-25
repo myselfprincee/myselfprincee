@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myselfprincee
-- 👀 I’m love Coding
+- 👀 I love Coding
 - 🌱 I’m currently learning React!!
 
 <!---
