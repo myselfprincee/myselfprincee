@@ -1,6 +1,9 @@
-![eugene-golovesov-Agebkjgvkcs-unsplash (1)](https://github.com/myselfprincee/myselfprincee/assets/114233864/f38a1caa-77e9-4a65-880d-a3183c0184e8)
+![eugene-golovesov-Agebkjgvkcs-unsplash (1)](https://github.com/myselfprincee/myselfprincee/assets/114233864/f38a1caa-77e9-4a65-880d-a3183c0184e8)</br>
 
-### **Hi There 👋** I'm Prince Gupta A passionate frontend developer from India
+<h4>Hi There 👋,</h2>
+
+### I'm Prince Gupta, A passionate Full Stack Web Developer 🧑‍💻
+</br>
 
 - 🔭 I’m currently working on Princeous Clothing - An E-Commerce Website.
 
@@ -10,6 +13,7 @@
 
 - ⚡ Fun fact: I love playing Games 🎮🕹
 
+</br>
 
 ### 🙋 Connect With Me :
 
@@ -17,6 +21,7 @@
 [`Connect on LinkedIn`](https://Linkedin.com/princeee)
 [`Let's Chat on Instagram`](https://twitter.com/princedevelops)
 
+</br>
 
 ### 📊 Stats:
 
@@ -26,7 +31,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myselfprincee&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfprincee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+</br>
 
 ### 📑 Blog posts
 <!-- BLOG-POST-LIST:START -->
