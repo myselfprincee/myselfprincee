@@ -16,5 +16,10 @@ A passionate frontend developer from India
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Your Web Development Better with TypeScript](https://levelup.gitconnected.com/making-your-web-development-better-with-typescript-ad55286126c5?source=rss-a38b031adb9------2)
+- [10 JavaScript Tips to Help You Build Better Projects &lpar;PART — II&rpar;](https://levelup.gitconnected.com/10-javascript-tips-to-help-you-build-better-projects-part-ii-d837252671b1?source=rss-a38b031adb9------2)
+- [10 JavaScript Tips to Help You Build Better Projects &lpar;PART — I&rpar;](https://levelup.gitconnected.com/10-javascript-tips-to-help-you-build-better-projects-part-i-f0de2c8239fe?source=rss-a38b031adb9------2)
+- [A Step-by-Step Guide for Learning Regular Expressions : A Guide with Real-Life Usage](https://levelup.gitconnected.com/practical-examples-for-learning-regular-expressions-a-guide-with-real-life-usage-46aff5f409ab?source=rss-a38b031adb9------2)
+- [Why Developers are Switching towards Next.js](https://levelup.gitconnected.com/why-developers-are-switching-towards-next-js-c97ed7178a5d?source=rss-a38b031adb9------2)
 <!-- BLOG-POST-LIST:END -->
 
