@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=myselfprincee&icon=0&color=1)](https://visitcount.itsvg.in)
+# Hi 👋, I'm Prince Gupta
+A passionate frontend developer from India
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_princeguptaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princeee) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@princeee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/princedevelops) 
@@ -18,10 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=myselfprincee&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=myselfprincee&icon=0&color=1)](https://visitcount.itsvg.in)
+# Blog posts
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
