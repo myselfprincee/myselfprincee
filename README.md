@@ -23,7 +23,6 @@ A passionate frontend developer from India
 
 
 # Blog posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
