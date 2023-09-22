@@ -33,6 +33,9 @@
 
 </br>
 
+### My DevCard
+<a href="https://app.daily.dev/princee"><img src="https://api.daily.dev/devcards/f08c5fb72b1047f0b15a88bf5a336451.png?r=x3r" width="200" alt="Prince Gupta's Dev Card"/></a>
+
 ### 📑 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Making Your Web Development Better with TypeScript](https://levelup.gitconnected.com/making-your-web-development-better-with-typescript-ad55286126c5?source=rss-a38b031adb9------2)
