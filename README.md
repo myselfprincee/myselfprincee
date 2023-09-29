@@ -38,10 +38,10 @@
 
 ### 📑 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 9 Free Hosting Providers for Web Developers](https://levelup.gitconnected.com/top-9-free-hosting-providers-for-web-developers-73d31713f19e?source=rss-a38b031adb9------2)
 - [Making Your Web Development Better with TypeScript](https://levelup.gitconnected.com/making-your-web-development-better-with-typescript-ad55286126c5?source=rss-a38b031adb9------2)
 - [10 JavaScript Tips to Help You Build Better Projects &lpar;PART — II&rpar;](https://levelup.gitconnected.com/10-javascript-tips-to-help-you-build-better-projects-part-ii-d837252671b1?source=rss-a38b031adb9------2)
 - [10 JavaScript Tips to Help You Build Better Projects &lpar;PART — I&rpar;](https://levelup.gitconnected.com/10-javascript-tips-to-help-you-build-better-projects-part-i-f0de2c8239fe?source=rss-a38b031adb9------2)
 - [A Step-by-Step Guide for Learning Regular Expressions : A Guide with Real-Life Usage](https://levelup.gitconnected.com/practical-examples-for-learning-regular-expressions-a-guide-with-real-life-usage-46aff5f409ab?source=rss-a38b031adb9------2)
-- [Why Developers are Switching towards Next.js](https://levelup.gitconnected.com/why-developers-are-switching-towards-next-js-c97ed7178a5d?source=rss-a38b031adb9------2)
 <!-- BLOG-POST-LIST:END -->
 
