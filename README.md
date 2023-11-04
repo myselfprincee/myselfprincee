@@ -18,8 +18,8 @@
 ### 🙋 Connect With Me :
 
 [`Follow me on Twitter`](https://twitter.com/princedevelops)
-[`Connect on LinkedIn`](https://Linkedin.com/princeee)
-[`Let's Chat on Instagram`](https://twitter.com/princedevelops)
+[`Connect on LinkedIn`](https://Linkedin.com/in/princeee)
+[//][`Let's Chat on Instagram`](https://twitter.com/princedevelops)
 
 </br>
 
