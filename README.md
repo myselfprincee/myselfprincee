@@ -1,6 +1,4 @@
-[![An image of @myselfprincee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfprincee)](https://holopin.io/@myselfprincee)</br>
-
-<h4>Hi There 👋,</h2>
+<h2>Hi There 👋,</h2>
 
 ### I'm Prince Gupta, A passionate Full Stack Web Developer 🧑‍💻
 </br>
@@ -31,9 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfprincee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </br>
-
-### My DevCard
-<a href="https://app.daily.dev/princee"><img src="https://api.daily.dev/devcards/f08c5fb72b1047f0b15a88bf5a336451.png?r=x3r" width="200" alt="Prince Gupta's Dev Card"/></a>
 
 ### 📑 Blog posts
 <!-- BLOG-POST-LIST:START -->
