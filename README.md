@@ -3,11 +3,11 @@
 ### I'm Prince Gupta, A passionate Full Stack Web Developer 🧑‍💻
 </br>
 
-- 🔭 I’m currently working on Princeous Clothing - An E-Commerce Website.
+- 🔭 I’m currently exploring new things and building...
 
-- 🌱 I’m currently learning Nextjs, TailwindCSS and SQL. 
+- 🌱 Always up for learning new things.
 
-- ❓ Ask me about anything related to Frontend Development.
+- ❓ Ask me about anything related to FullStack Development.
 
 - ⚡ Fun fact: I love playing Games 🎮🕹
 
