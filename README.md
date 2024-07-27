@@ -1,34 +1,8 @@
-<h2>Hi There 👋,</h2>
-
-### I'm Prince Gupta, A passionate Full Stack Web Developer 🧑‍💻
-</br>
-
-- 🔭 I’m currently exploring new things and building...
-
-- 🌱 Always up for learning new things.
-
-- ❓ Ask me about anything related to FullStack Development.
-
-- ⚡ Fun fact: I love playing Games 🎮🕹
-
-</br>
-
-### 🙋 Connect With Me :
-
-[`Follow me on Twitter`](https://twitter.com/princedevelops)
-[`Connect on LinkedIn`](https://Linkedin.com/in/princeee)
-
-</br>
-
-### 📊 Stats:
-
 [![](https://visitcount.itsvg.in/api?id=myselfprincee&icon=0&color=1)](https://visitcount.itsvg.in)
+### I'm ```Prince``` by the way.
 
-![](https://github-readme-stats.vercel.app/api?username=myselfprincee&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=myselfprincee&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfprincee&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[` Connect W me on X `](https://twitter.com/princedevelops)       [` Connect on LinkedIn `](https://Linkedin.com/in/princeee)   ``` princegupta.xyz ( currently broken 😭 ) ```
 
-</br>
 
 ### 📑 Blog posts
 <!-- BLOG-POST-LIST:START -->
