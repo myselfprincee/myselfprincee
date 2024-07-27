@@ -1,5 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=myselfprincee&icon=0&color=1)](https://visitcount.itsvg.in)
-### I'm ```Prince``` by the way.
 
 [` Connect W me on X `](https://twitter.com/princedevelops)       [` Connect on LinkedIn `](https://Linkedin.com/in/princeee)   ``` princegupta.xyz ( currently broken 😭 ) ```
 
